@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there I'm Cedric 👋
 
+- 🔭 I'm currently working on my master's degree in Computer Graphics
+- 😄 My favorite programming language is C++
+- 🌱 I'm currently learning higher math, and Rust
+- [Itch.io](https://martenscedric.itch.io/)
 <!--
 **MartensCedric/MartensCedric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
