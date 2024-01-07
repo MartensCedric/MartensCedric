@@ -1,9 +1,9 @@
 ### Hi there I'm Cedric 👋
 
-- 🔭 I'm currently working on my master's degree in Computer Graphics
+- 🔭 PhD student in Computer Science (Computer Graphics)
 - 👉 My favorite programming language is C++ 
 - 🌱 I'm currently learning higher math, and Rust
-- I like making tiny indie games: [Itch.io](https://martenscedric.itch.io/)
+- I like to make tiny indie games: [Itch.io](https://martenscedric.itch.io/)
 <!--
 **MartensCedric/MartensCedric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
